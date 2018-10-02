@@ -1,4 +1,4 @@
 import numpy as np
 
-i = np.pi
-print(i)
+b = np.pi
+print(b)
